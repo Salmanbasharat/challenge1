@@ -15,12 +15,12 @@ Below is the description of Analysis on both the aspects.
 ### Analysis of Outcomes Based on Launch Date
 The data was filtered on the basis of *parent category* of **Theater** and *year* of launching date and analysed on the basis of **successful**, **failed** and **canceled** outcomes. The data was further analysed
 to see the outcomes on the basis of months. To visualize the relationship of date of launching and the outcome , a line graph was created and shown below:
-<img src="Theater_outcomes_vs_launch"></img>
+<img src="Theater_outcomes_vs_launch.png"></img>
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, the ranges of dollar figures of goals were created (like less than $1000, $1000 to $4999 and so on) and number of *successful*, *failed* and *canceled* outcomes were computed.
 Then percentages of these outcomes were analysed against the ranges of dollar figures of goals. The visual representation of this relationship is shown in the below line graph:
-<img src="Outcomes_vs_Goals"></img>
+<img src="Outcomes_vs_Goals.png"></img>
 
 ### Challenges and Difficulties Encountered
 While analysing the outcomes based on Launch date, initially I had a little bit of challenge while selecting the correct rows, filters and values in the pivot chart. But then resolved this issue after having the conceptual clarification of the pivot chart from the instructor.
@@ -51,4 +51,4 @@ can provide useful insights.
 
 I have further analysed the data on the basis of **Duration of Campaigns** for **plays** subcategory. The analysis shows that the duration of most successful campaigns was ranging from 20 to 39 days.
 The line chart showing this analysis is shown below:
-<img src="Outcomes Based on Campaign Duration"></img>
+<img src="Outcomes Based on Campaign Duration.png"></img>
